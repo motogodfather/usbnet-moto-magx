@@ -1,7 +1,10 @@
 # usbnet-motomagx-
 Solve the problem that Motorola magx models cannot use usbnet on linux 5.0+ kernel.
+
 基于GodFox版本修改，https://github.com/OpenMagx/usbnet
+
 motorola magx手机在不能通过usbnet方式连接linux 5.0及以上的内核的系统
+
 编译代码中的两个驱动并安装能解决这个问题
 
 使用方法：
